@@ -1,5 +1,5 @@
 Optical-Detectors-Assignment
-
+Author:Ta'Nasia Coleman
 Notebook	Data:
 Complete_image_calibration.ipynb	Hubble Space Telescope (HST) WFPC2 exposures	Calibrates raw images step by step and compares the result with the archive's "science-ready" images
 GoogleEarthCalobration.ipynb	Google Earth images and Sentinel-2 imagery of Hunga Tonga-Hunga Ha'apai	Measures land area and vegetated area over time and compares our own vegetation index with the one supplied by the Sentinel-2 pipeline
