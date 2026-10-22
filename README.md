@@ -1,4 +1,7 @@
 Optical-Detectors-Assignment
+
+
+
 Author:Ta'Nasia Coleman
 Notebook	Data:
 Complete_image_calibration.ipynb	Hubble Space Telescope (HST) WFPC2 exposures	Calibrates raw images step by step and compares the result with the archive's "science-ready" images
