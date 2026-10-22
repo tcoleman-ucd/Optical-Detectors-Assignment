@@ -1,0 +1,3 @@
+S2_2017-07-12: veg area ours/pipeline = 0.614/0.789 km^2 | agreement = 0.9858| mean NDVI inside/outside pipeline veg = 0.519/-0.192 | 
+S2_2018-07-12: veg area ours/pipeline = 0.674/0.807 km^2 | agreement = 0.9892| mean NDVI inside/outside pipeline veg = 0.564/-0.123 | 
+S2_2019-07-12: veg area ours/pipeline = 0.772/0.985 km^2 | agreement = 0.9827| mean NDVI inside/outside pipeline veg = 0.540/-0.103 | 
