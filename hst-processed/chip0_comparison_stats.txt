@@ -1,0 +1,5 @@
+                         ubai2505m     ubai2507m     ubai2508m
+median_diff                -0.7073       -0.7416       -0.7635
+clipped_std_diff            0.0262        0.0198        0.0326
+correlation                 1.0000        1.0000        0.9999
+n_pixels               635890.0000   635890.0000   635890.0000
